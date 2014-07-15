@@ -7,7 +7,7 @@ Instructions
 
 1) Launch the app.
 
-2) When you see the Thought Scanner Loading text PLAY the video.
+2) When you see the Thought Scanner Loading Text PLAY the video.
 
 *The app is only used during the Starring Contest. (You will see an icon on the video when to use the mobile device.)
 
