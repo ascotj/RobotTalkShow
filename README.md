@@ -1,9 +1,7 @@
 RobotTalkShow
 =============
 
-"Thought Scanner App" for Robot Talk Show.
-
-The App is for android only and has only been tested on a Nexus 5.
+The App is for android only and has only been tested on a Nexus 5. (You will need Android Zip installed on your device to open the zip file and install the APK file.)
 
 Instructions
 
